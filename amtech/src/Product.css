@@ -12,7 +12,7 @@
 }
 
 .product > img{
-    max-height: 300px;
+    max-height: 250px;
     width: 150%;
     object-fit: contain;
     margin-bottom: 15px;
@@ -31,11 +31,13 @@
 }
 
 .product_button{
-    background:blue;
-    border:1px solid;
-    margin-top: 10px;
-    border-color: blue;
-    color:black;
-    border-style: initial;
-    
+   
+        background-color:white;
+        border-radius: 2px;
+        width: 100px;
+        height: 50px;
+        border-radius: 2px solid;
+       margin-top:10px;
+       border-color:royalblue;
+      
 }
